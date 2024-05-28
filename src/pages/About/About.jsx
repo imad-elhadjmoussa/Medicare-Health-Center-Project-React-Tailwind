@@ -70,7 +70,7 @@ export const About = () => {
                 <motion.div
                     className=' flex justify-center '
                     initial={{scale:0}}
-                    animate={{scale:1,transition:{delay:1.3}}}
+                    whileInView={{scale:1,transition:{delay:1.3}}}
                     viewport={{once:true,amount:"all"}}
                 >
                     <PrimaryBtn text={"Treatment"} link={"Treatment"} />
