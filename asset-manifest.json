@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.db0b0beb.css",
+    "main.js": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.a4813760.js",
+    "static/js/453.6f1816c1.chunk.js": "/Medicare-Health-Center-Project-React-Tailwind/static/js/453.6f1816c1.chunk.js",
+    "static/media/medicare_bear.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medicare_bear.53a97e031157fccf4b39.jpg",
+    "static/media/medical_bg1-1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medical_bg1-1.f587c683ab2b08820b93.jpg",
+    "static/media/house_footer_bg-1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/house_footer_bg-1.85df4ddd17bed41c08ff.jpg",
+    "static/media/research3.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/research3.3a5b302af8bca29c8ced.jpg",
+    "static/media/medicare_about1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medicare_about1.8c1ffa9f39380018b8b5.jpg",
+    "static/media/research2.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/research2.cd749306f67428ccfbdf.jpg",
+    "static/media/research1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/research1.5c65df477f315cb5a570.jpg",
+    "static/media/services1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/services1.029b4e076b9ab8add46d.jpg",
+    "static/media/services3.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/services3.a59ae6683ff004b90cf0.jpg",
+    "static/media/research4.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/research4.595ab9195502fd27ba6e.jpg",
+    "static/media/doc2.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/doc2.8c8641804b460dd734ae.jpg",
+    "static/media/doc3.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/doc3.310c96c1291ef7a52d22.jpg",
+    "static/media/medicare_highlightbg.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medicare_highlightbg.fac1d54f1c299b26c42a.jpg",
+    "static/media/doc1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/doc1.94e99a9b30e601cc5243.jpg",
+    "static/media/services2.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/services2.15907b29d7ba6329a115.jpg",
+    "index.html": "/Medicare-Health-Center-Project-React-Tailwind/index.html",
+    "static/media/iconmonstr-angel-left-circle-thin.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/iconmonstr-angel-left-circle-thin.a454727bd6b18f269854916bbd262b66.svg",
+    "static/media/iconmonstr-angel-right-circle-thin.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/iconmonstr-angel-right-circle-thin.8ad6f97ec20373b95b0fea9b5c0c62db.svg",
+    "static/media/close-icon.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/close-icon.922c33c3b16653daf14d01b6e0a28461.svg",
+    "static/media/menu-icon.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/menu-icon.a4d575688f273a48be131527fe72a756.svg",
+    "main.db0b0beb.css.map": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.db0b0beb.css.map",
+    "main.a4813760.js.map": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.a4813760.js.map",
+    "453.6f1816c1.chunk.js.map": "/Medicare-Health-Center-Project-React-Tailwind/static/js/453.6f1816c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0b0beb.css",
+    "static/js/main.a4813760.js"
+  ]
+}
