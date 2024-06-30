@@ -17,7 +17,7 @@ function App() {
   
 
   return (
-    <div className="">
+    <div className=" overflow-x-hidden ">
       {
         isOpen &&
         <div class=" fixed top-0 left-0 w-full h-full z-50" style={{ backgroundColor: "rgba(0, 0, 0, 0.7)" }}></div>
