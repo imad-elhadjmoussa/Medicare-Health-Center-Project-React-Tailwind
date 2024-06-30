@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.db0b0beb.css",
-    "main.js": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.a4813760.js",
+    "main.css": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.97002f71.css",
+    "main.js": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.0b5b85ae.js",
     "static/js/453.6f1816c1.chunk.js": "/Medicare-Health-Center-Project-React-Tailwind/static/js/453.6f1816c1.chunk.js",
     "static/media/medicare_bear.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medicare_bear.53a97e031157fccf4b39.jpg",
     "static/media/medical_bg1-1.jpg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/medical_bg1-1.f587c683ab2b08820b93.jpg",
@@ -23,12 +23,12 @@
     "static/media/iconmonstr-angel-right-circle-thin.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/iconmonstr-angel-right-circle-thin.8ad6f97ec20373b95b0fea9b5c0c62db.svg",
     "static/media/close-icon.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/close-icon.922c33c3b16653daf14d01b6e0a28461.svg",
     "static/media/menu-icon.svg": "/Medicare-Health-Center-Project-React-Tailwind/static/media/menu-icon.a4d575688f273a48be131527fe72a756.svg",
-    "main.db0b0beb.css.map": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.db0b0beb.css.map",
-    "main.a4813760.js.map": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.a4813760.js.map",
+    "main.97002f71.css.map": "/Medicare-Health-Center-Project-React-Tailwind/static/css/main.97002f71.css.map",
+    "main.0b5b85ae.js.map": "/Medicare-Health-Center-Project-React-Tailwind/static/js/main.0b5b85ae.js.map",
     "453.6f1816c1.chunk.js.map": "/Medicare-Health-Center-Project-React-Tailwind/static/js/453.6f1816c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db0b0beb.css",
-    "static/js/main.a4813760.js"
+    "static/css/main.97002f71.css",
+    "static/js/main.0b5b85ae.js"
   ]
 }
